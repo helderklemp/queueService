@@ -1,0 +1,12 @@
+/Users/helderklemp/git/helderklemp/queueService/src/main/java/com/example/FileQueueService.java
+/Users/helderklemp/git/helderklemp/queueService/src/main/java/com/example/util/MessageTimeOutService.java
+/Users/helderklemp/git/helderklemp/queueService/src/main/java/com/example/model/Message.java
+/Users/helderklemp/git/helderklemp/queueService/src/main/java/com/example/model/SuppressedMessage.java
+/Users/helderklemp/git/helderklemp/queueService/src/main/java/com/example/QueueService.java
+/Users/helderklemp/git/helderklemp/queueService/src/main/java/com/example/model/PullMessageResponse.java
+/Users/helderklemp/git/helderklemp/queueService/src/main/java/com/example/model/PushMessageResponse.java
+/Users/helderklemp/git/helderklemp/queueService/src/main/java/com/example/util/MessageTimeOutServiceImpl.java
+/Users/helderklemp/git/helderklemp/queueService/src/main/java/com/example/InMemoryQueueService.java
+/Users/helderklemp/git/helderklemp/queueService/src/main/java/com/example/model/PullMessageRequest.java
+/Users/helderklemp/git/helderklemp/queueService/src/main/java/com/example/model/PushMessageRequest.java
+/Users/helderklemp/git/helderklemp/queueService/src/main/java/com/example/SqsQueueService.java
